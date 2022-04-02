@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronic Engeneering & Coumputer Science
 - 🌱 I’m currently learning Verilog HDL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me billy_wei.qd@foxmail.comzhongguo
+- 📫 How to reach me billy_wei.qd@foxmail.com
 
 <!---
 VBortze/VBortze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
